@@ -8,7 +8,7 @@
     
 </p>
 
-Welcome to my GitHub repository for custom object detection using [YOLOv8](https://github.com/ultralytics/ultralytics) by [Ultralytics](https://ultralytics.com/)! 
+Welcome to my GitHub repository for custom object detection using [YOLOv8](https://github.com/ultralytics/ultralytics) by [Ultralytic](https://ultralytics.com/)! 
 
 This project covers a range of object detection tasks and techniques, including utilizing a pre-trained YOLOv8-based network model for [PPE object detection](https://github.com/mohamedamine99/YOLOv8-custom-object-detection/tree/main/PPE-cutom-object-detection-with-YOLOv8), training a custom YOLOv8 model to recognize a single class (in this case, alpacas), and developing multiclass object detectors to recognize bees and butterflies, ants and insects.
 
